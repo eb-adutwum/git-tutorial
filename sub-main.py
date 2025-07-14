@@ -1,2 +1,3 @@
-print("Hello Sub-world")
-print("Version 14")
+def add(x, y):
+    """Add two numbers."""
+    return x + y
